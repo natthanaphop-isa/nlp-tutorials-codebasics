@@ -27,3 +27,19 @@ Tutorials For Beginners For Natural Language Processing
 8. Text Summarization
 9. Voice Assistants
 10. Topic Modeling
+
+## NLP Pipeline
+1. Data Acquisition
+2. Text Extraction & Cleanup
+3. Pre-processing
+  - Sentence Segmentation/tokenization
+  - Word Tokenization
+  - Stemming & Lemmatization
+4. Model Building
+  - Feature Engineeering
+  - Machine Learning
+5. Evaluation
+  - Confusion Matrix 2D,3D
+  - Accuracy, Precision, Recall, F1-score
+6. Model Deployment
+7. Monitor & Update
