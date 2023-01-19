@@ -1,7 +1,7 @@
 # nlp-tutorials
 Tutorials For Beginners For Natural Language Processing
 
-##NLP Tasks 
+## NLP Tasks 
 1. Text Classification 
 2. Text Similarity 
   - Sentence Encoder
@@ -23,5 +23,7 @@ Tutorials For Beginners For Natural Language Processing
   - Return the relevant website sorted by order
 5. Chatbots
 6. Machine Translator 
-7. Language Modelling
+7. Language Modeling
 8. Text Summarization
+9. Voice Assistants
+10. Topic Modeling
