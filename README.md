@@ -51,3 +51,9 @@ Tutorials For Beginners For Natural Language Processing
 - Word Embeddings
 
 "Often in NLP, feeding a good text representation to an ordinary algorithm will get you much further compared to applying a top-notch algorithm to an ordinary text representation."
+
+### One hot encoding 
+- Doesn't capture the meaning of a word
+- High memory consumption
+- Out of vocabulary problem
+- No fixed length representation
