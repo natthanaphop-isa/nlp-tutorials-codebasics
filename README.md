@@ -49,3 +49,5 @@ Tutorials For Beginners For Natural Language Processing
 - Bag of Words
 - TF-IDF
 - Word Embeddings
+
+"Often in NLP, feeding a good text representation to an ordinary algorithm will get you much further compared to applying a top-notch algorithm to an ordinary text representation."
