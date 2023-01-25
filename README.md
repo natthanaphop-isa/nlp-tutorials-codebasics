@@ -57,3 +57,7 @@ Tutorials For Beginners For Natural Language Processing
 - High memory consumption
 - Out of vocabulary problem
 - No fixed length representation
+
+### Bag of Words
+- Large memeory consumption
+- Doesn't capture the meaning of words properly
