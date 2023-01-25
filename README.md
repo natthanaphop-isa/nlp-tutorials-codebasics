@@ -43,3 +43,9 @@ Tutorials For Beginners For Natural Language Processing
   - Accuracy, Precision, Recall, F1-score
 6. Model Deployment
 7. Monitor & Update
+
+## Text Presentation
+- One Hot Encoding
+- Bag of Words
+- TF-IDF
+- Word Embeddings
